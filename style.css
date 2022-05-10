@@ -1,3 +1,66 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+div .bold {
+  font-family: "ALK Rex Bold";
+  color: #171717;
+  width: 346px;
+  height: 68px;
+  font-size: 18px;
+  position: fixed;
+  background-color: #ffffff;
+  border-radius: 12px;
+  left: 625px;
+  top: 403px;
+}
+div .light {
+  font-family: "ALK Life";
+  color: #171717;
+  width: 339px;
+  height: 65px;
+  font-size: 18px;
+  position: fixed;
+  background-color: #ffffff;
+  border-radius: 12px;
+  left: 1034px;
+  top: 441px;
+}
+div .second-image {
+  width: 463px;
+  height: 420px;
+  border-radius: 15px;
+  position: fixed;
+  left: 567px;
+  top: 104px;
+}
+div .third {
+  width: 384px;
+  height: 349px;
+  border-radius: 15px;
+  position: fixed;
+  left: 1006px;
+  top: 167px;
+}
+span {
+  font-family: "ALK Rex Bold";
+  color: #171717;
+  font-size: 18px;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+}
+
 *{
     margin: 0px;
     padding: 0px;
@@ -70,3 +133,4 @@ a{
     padding: 30px 74px 30px 30px;
     font-family: "ALK Life", sans-serif;
 }
+
