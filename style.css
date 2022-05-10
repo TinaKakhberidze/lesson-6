@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -59,3 +60,77 @@ span {
   right: 50px;
   bottom: 50px;
 }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 308px;
+    background-color: #0A22F4;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.dot{
+    border-radius: 50%;
+    background-color: #000;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    margin-top: 84px;
+    margin-left: 20px;
+}
+
+#first-dot{
+    background-color: #fff;
+}
+
+.main-link{
+    width: 184px;
+    height: 38px;
+    color: #fff;
+    font-size: 32px;
+    margin-top: 70px;
+    margin-left: 240px;
+    font-family: "ALK Rex Bold", sans-serif;
+}
+
+.last-dot{
+    margin-right: 241px;
+}
+
+.first-box{
+    width: 463px;
+    height: 420px;
+    position: relative;
+    margin-left: 240px;
+    margin-top: -80px;
+}
+
+.first-image{
+    border-radius: 15px;
+}
+
+.first-text-box{
+    width: 443px;
+    height: 125px;
+    border-radius: 12px;
+    background-color: #fff;
+    position: absolute;
+    top: 285px;
+    right: 10px;
+    left: 10px;
+    bottom: 10px;
+}
+
+.first-text{
+    padding: 30px 74px 30px 30px;
+    font-family: "ALK Life", sans-serif;
+}
+
