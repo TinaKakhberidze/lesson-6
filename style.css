@@ -35,6 +35,7 @@ a{
     font-size: 32px;
     margin-top: 70px;
     margin-left: 240px;
+    font-family: "ALK Rex Bold", sans-serif;
 }
 
 .last-dot{
@@ -67,4 +68,5 @@ a{
 
 .first-text{
     padding: 30px 74px 30px 30px;
+    font-family: "ALK Life", sans-serif;
 }
